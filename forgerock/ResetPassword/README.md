@@ -5,7 +5,6 @@ Reset Password Tree
 
 [![](./ResetPassword.png)]()
 
-
 ## Node Types (6)
 | Count | Type | Classification |
 | -----:| ---- | -------------- |

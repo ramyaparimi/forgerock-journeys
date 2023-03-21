@@ -5,7 +5,6 @@ Platform Registration Tree
 
 [![](./Registration.png)]()
 
-
 ## Node Types (8)
 | Count | Type | Classification |
 | -----:| ---- | -------------- |
