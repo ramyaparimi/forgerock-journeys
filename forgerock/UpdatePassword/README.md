@@ -5,7 +5,6 @@ Update password using active session
 
 [![](./UpdatePassword.png)]()
 
-
 ## Node Types (7)
 | Count | Type | Classification |
 | -----:| ---- | -------------- |
