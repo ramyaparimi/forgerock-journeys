@@ -5,7 +5,6 @@ Prompt for missing preferences on 3rd login
 
 [![](./ProgressiveProfile.png)]()
 
-
 ## Node Types (5)
 | Count | Type | Classification |
 | -----:| ---- | -------------- |
