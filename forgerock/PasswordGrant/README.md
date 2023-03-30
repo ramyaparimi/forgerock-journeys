@@ -2,7 +2,6 @@
 
 [![](./PasswordGrant.png)]()
 
-
 ## Node Types (4)
 | Count | Type | Classification |
 | -----:| ---- | -------------- |
